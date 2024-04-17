@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-lg navbar-light">
           <div class="collapse navbar-collapse" id="navbar">
             <a href="/" class="navbar-brand">
-              <img src="/img/hdcevents_logo.svg" alt="HDC Events">
+              <img src="/img/eventmaster_logo.jpg" alt="Event master">
             </a>
             <ul class="navbar-nav">
               <li class="nav-item">
@@ -69,7 +69,7 @@
         </div>
       </main>
       <footer>
-        <p>HDC Events &copy; 2020</p>
+        <p>Event Master &copy; 2024</p>
       </footer>
       <script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
     </body>

@@ -23,13 +23,13 @@ header {
 }
 
 .btn-primary {
-  background-color: #F2A340;
-  border: 2px solid #C28008;
+  background-color: #3804f2;
+  border: 2px solid #2b00d5;
 }
 
 .btn-primary:hover {
-  background-color: #C28008;
-  border-color: #C28008;
+  background-color: #3804f2;
+  border-color: #2b00d5;
 }
 
 .msg {
@@ -44,16 +44,16 @@ header {
 
 #info-container .already-joined-msg {
   margin: 15px 0;
-  color: #004085;
-  background-color: #CCE5FF;
-  border: 1px solid #B8DAFF;
+  color: #ffffff;
+  background-color: #3041d9;
+  border: 1px solid #3916c5;
   padding: 10px;
   width: 275px;
 }
 
 /* navbar */
 #navbar img {
-  width: 40px;
+  width: 80px;
 }
 
 #navbar {
@@ -68,7 +68,7 @@ header {
 }
 
 #navbar a:hover {
-  color: #F2A340;
+  color: #2b00d5;
 }
 
 /* Search Container */
@@ -82,7 +82,7 @@ header {
 }
 
 #search-container h1 {
-  color: #F2A340;
+  color: #fdfdfd;
   margin-bottom: 30px;
   font-weight: 900;
 }
@@ -185,7 +185,7 @@ header {
 
 #info-container ion-icon {
   font-size: 20px;
-  color: #F2A340;
+  color: #2b00d5;
   margin-right: 5px;
 }
 
